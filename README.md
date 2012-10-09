@@ -11,4 +11,9 @@ used like a script and may be useful in combination with a customizable
 lockscreen like [WidgetLocker][] that allows you to directly execute
 applications.
 
+The launcher icons are provided by the free version of [Iconshock][]'s [Android
+Style Set][]. Thx for sharing!
+
  [WidgetLocker]: http://teslacoilsw.com/widgetlocker/
+ [Iconshock]: http://www.iconshock.com/
+ [Android Style Set]: http://www.iconshock.com/android-icons/
